@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![BABA's github stats](https://github-readme-stats.vercel.app/api?username=babahironobu&show_icons=true&theme=merko)
+![Jerry Baba's github stats](https://github-readme-stats.vercel.app/api?username=jerrybabah&show_icons=true&theme=merko)
 
 <!--
 **BABAHIRONOBU/BABAHIRONOBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
